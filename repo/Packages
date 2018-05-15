@@ -1,0 +1,1006 @@
+Package: com.taskinoz.DayKlok
+Name: DayKlok
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A visual clock for your lockscreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.DayKlok.deb
+Size: 1716418
+MD5sum: fb732c7ee0a052eea64718dd73d99dba
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.0.deb
+Size: 8154
+MD5sum: 946dad171baaea9135aa821cc0567923
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.1.deb
+Size: 3236
+MD5sum: ab8ff3f4abcc93bbde2d1839be4c1201
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.2.deb
+Size: 8794
+MD5sum: 59fef0c317957b04cdd699cb8eabb243
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.3.deb
+Size: 3588
+MD5sum: b68840f8a790214b1d70d3832bcbc974
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.4.deb
+Size: 3650
+MD5sum: 572d88af8cc7f00c1777e51a06113635
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.0.deb
+Size: 77770
+MD5sum: d83ae5684406949d62d0b872fa0498a2
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.0.deb
+Size: 531534
+MD5sum: 3840bbae8cb87214fa330965a9fc74f2
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.1.deb
+Size: 797508
+MD5sum: 7ed3f65c70ac808a361b505fe8d49b24
+
+Package: com.taskinoz.LSCity
+Name: LS City
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Another LockScreen requested by mimibrooks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCity-1.0.deb
+Size: 647828
+MD5sum: c1bf29159bb42c0cd8ddf7e976fa2605
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.1.deb
+Size: 371488
+MD5sum: 50d913fae2d72db88114c1b517b7847e
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.0.deb
+Size: 352000
+MD5sum: bea2ff102114dab37396e21df205de83
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.1.deb
+Size: 352598
+MD5sum: b680a3d2e86710b034b1fc893e0efe05
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.2.deb
+Size: 352558
+MD5sum: fcaa804ed6a741793071868432daba4c
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.2.deb
+Size: 371478
+MD5sum: d87776ab25b2a0301372a8aadd51f8aa
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.3.deb
+Size: 352630
+MD5sum: 59860d6b438d41f24604ddebccf51761
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.3.deb
+Size: 372228
+MD5sum: 5530e951ea98dc730bdc47133c1f1682
+
+Package: com.taskinoz.LSCity
+Name: LS City
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Another LockScreen requested by mimibrooks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCity-1.1.deb
+Size: 647862
+MD5sum: e1444151c68b0d262ba79075366af1e2
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.0.deb
+Size: 693722
+MD5sum: f0c57ebb1ed39c8dc12da8a05fba8cab
+
+Package: com.taskinoz.RepoIcons
+Name: Repo Icons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icons for the Taskinoz repo.
+Essential: no
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: Taskinoz
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.RepoIcons-1.0.deb
+Size: 13126
+MD5sum: 7b67e8f3edc96baa57fbc6ce3dc6f69c
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.2.deb
+Size: 797500
+MD5sum: b24d73d5fbe4153168b16712bc895eb6
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.4.deb
+Size: 372340
+MD5sum: 845218b9a8c7529085587a8c87e3df1a
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.4.deb
+Size: 352750
+MD5sum: c86c81322b2ce6d0b2ade780c93910fd
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.1.deb
+Size: 693626
+MD5sum: 1822e49f00a2894b50bcfedbf519a0e0
+
+Package: com.taskinoz.LSBatteryBar
+Name: LS Battery Bar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A minimal battery/clock widget for the LockScreen or Homescreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBatteryBar-1.0.deb
+Size: 368432
+MD5sum: 7f46ee1bbc1177b1b90efc3a3d3591d3
+
+Package: com.taskinoz.CloudCover
+Name: Cloud Cover
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A CustomCover overlay that matches the shape and size of LS Cloud.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: CustomCover
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.CloudCover-1.0.deb
+Size: 75172
+MD5sum: fec95d9b7c9ae48dd2367ac070583bba
+
+Package: com.taskinoz.SBDarkForest
+Name: SB Dark Forest
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A springboard theme requested by Mimibrooks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: SpringBoard
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SBDarkForest-1.0.deb
+Size: 719066
+MD5sum: 3f6a7d06fd62473a3bf8a4c9577540a8
+
+Package: com.taskinoz.LSBatteryBar
+Name: LS Battery Bar
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A minimal battery/clock widget for the LockScreen or Homescreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBatteryBar-1.1.deb
+Size: 368436
+MD5sum: a44ef2dc3ff09595fa5a05f50d52bcd0
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.2.deb
+Size: 347796
+MD5sum: d5bfb6fdc09af068bfddacaf90197819
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.5.deb
+Size: 354076
+MD5sum: 9a0815a9465ac805bc22cc37432567f7
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.3.deb
+Size: 348546
+MD5sum: 0c89e1c7f2c54578f4438a4f255a16bd
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.6
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.6.deb
+Size: 354900
+MD5sum: ffbbd21d8bfc9c303b24ce85ba771bc5
+
+Package: com.taskinoz.LSBatteryBar
+Name: LS Battery Bar
+Version: 1.2
+Architecture: iphoneos-arm
+Description: A minimal battery/clock widget for the LockScreen or Homescreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBatteryBar-1.2.deb
+Size: 369398
+MD5sum: b584a1c16466061520c0239cf6df5d89
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.5.deb
+Size: 373542
+MD5sum: 2887751f035ef93197fd47ce1b748806
+
+Package: com.taskinoz.LSOceanside
+Name: LS Oceanside
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A requested port/remake of an Android setup.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSOceanside-1.0.deb
+Size: 291818
+MD5sum: 6813a48a2cba548ba0e46e5bb564eade
+
+Package: com.taskinoz.LSShadowBox
+Name: LS ShadowBox
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A port of an Android LockScreen modded by r47z.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSShadowBox-1.0.deb
+Size: 324292
+MD5sum: b0a89f1e021588f8ae102753ffe37706
+
+Package: com.taskinoz.exponen2
+Name: exponen+ 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: From the designer of exponen+, iSend, and the developer of LS Barebones comes exponen+ 2.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.exponen2-1.0.deb
+Size: 362008
+MD5sum: 3c88a933c94a0504676ea2386c3c280f
+
+Package: com.taskinoz.exponen2
+Name: exponen+ 2
+Version: 1.1
+Architecture: iphoneos-arm
+Description: From the designer of exponen+, iSend, and the developer of LS Barebones comes exponen+ 2.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.exponen2-1.1.deb
+Size: 362134
+MD5sum: c5f152544d384b1173c80f7945149aa4
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.7
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.7.deb
+Size: 355898
+MD5sum: 67bb60be8d4939b5300e0cad628661eb
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.4.deb
+Size: 349706
+MD5sum: 7ce2732120eff5696b9b27315c8541bc
+
+Package: com.taskinoz.Trimensis
+Name: Trimensis
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Another Android port suggested by /u/Faxx4840.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.Trimensis-1.0.deb
+Size: 587918
+MD5sum: 6e54230d9fd75e044a26f223172bddcf
+
+Package: com.taskinoz.Trimensis
+Name: Trimensis
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Another Android port suggested by /u/Faxx4840.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.Trimensis-1.1.deb
+Size: 587936
+MD5sum: ae26a7106e5a69b1b1920af2da601687
+
+Package: com.taskinoz.LSItus
+Name: LS Itus
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A clock that moves with your phone. (WARNING: This could cause the battery to drain quicker than usual)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSItus-1.0.deb
+Size: 271354
+MD5sum: 8c551f716752c4eace35dfa55f43c027
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.5.deb
+Size: 110950
+MD5sum: cc865a01e2840611ce6ce33ffd81896b
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.8
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.8.deb
+Size: 356058
+MD5sum: 6b9ea3237354306bdcb7a10db21d4b60
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.5.deb
+Size: 349956
+MD5sum: 6e352ac9e1567e4d7bf8a4fb1b468acc
+
+Package: com.taskinoz.SnowScreen
+Name: SnowScreen
+Version: 1.6
+Architecture: iphoneos-arm
+Description: A snowy clock for your Lockscreen or Homescreen
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.SnowScreen-1.6.deb
+Size: 110950
+MD5sum: 6530983118a6c902bc0dcbe350f8817a
+
+Package: com.taskinoz.Trimensis
+Name: Trimensis
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Another Android port suggested by /u/Faxx4840.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.Trimensis-1.2.deb
+Size: 588740
+MD5sum: 81321de423ee5d41751cefca0236e564
+
+Package: com.taskinoz.LSCloud
+Name: LS Cloud
+Version: 1.6
+Architecture: iphoneos-arm
+Description: A remake of an android lockscreen requested by mimibrooks.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCloud-1.6.deb
+Size: 374922
+MD5sum: 89cf983696f691506c63e56b66066a29
+
+Package: com.taskinoz.LSBatteryBar
+Name: LS Battery Bar
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A minimal battery/clock widget for the LockScreen or Homescreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBatteryBar-1.3.deb
+Size: 370276
+MD5sum: 12de58eed3ec1d523b94a41dbda970a0
+
+Package: com.taskinoz.exponen2
+Name: exponen+ 2
+Version: 1.2
+Architecture: iphoneos-arm
+Description: From the designer of exponen+, iSend, and the developer of LS Barebones comes exponen+ 2.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.exponen2-1.2.deb
+Size: 362862
+MD5sum: c81463a3520eabe8f444ed93b13261f6
+
+Package: com.taskinoz.LSCity
+Name: LS City
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Another LockScreen requested by mimibrooks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSCity-1.2.deb
+Size: 649446
+MD5sum: fa3a1f010410574efd6f914ee9b9b39a
+
+Package: com.taskinoz.LSShadowBox
+Name: LS ShadowBox
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A port of an Android LockScreen modded by r47z.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSShadowBox-1.1.deb
+Size: 325824
+MD5sum: 567b3935abd60176b5bfaa7d195a9b8c
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.3.deb
+Size: 799588
+MD5sum: 2c873912ba18ec8ac87409d11884cfad
+
+Package: com.taskinoz.Ohclock
+Name: Ohclock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A port of an android setup, requested by /u/Kicks_Rocks.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.Ohclock-1.0.deb
+Size: 396798
+MD5sum: 78df525e8838c314e88ae1bf4f01a08b
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.9
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.9.deb
+Size: 356084
+MD5sum: 76ce067800f002744367e62e4e59a603
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.6
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.6.deb
+Size: 349976
+MD5sum: 8cd88a0c1f38bbd30ec86813ac0ef7d0
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.4.deb
+Size: 799626
+MD5sum: 0a66e1037aed40e9c8b4aaa737d23b4e
+
+Package: com.taskinoz.LSLoro
+Name: LS Loro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A port of the Parrot Zooper Widget ZW 01 for LockHTML.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSLoro-1.0.deb
+Size: 535360
+MD5sum: 960c3a1374c8a24ddbaded0a8c1312b0
+
+Package: com.taskinoz.LSBarebones-Nano
+Name: LS Barebones Nano
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Ever thought LS Barebones - Tiny Mod was to big, now you can enjoy an even smaller Barebones widget.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-Nano-1.0.deb
+Size: 399928
+MD5sum: 1b88399aef8a181e8b0a972c78a715d1
+
+Package: com.taskinoz.LSBaffle
+Name: LS Baffle
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Watch your clock decode as you unlock your phone.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBaffle-1.0.deb
+Size: 78886
+MD5sum: ff1ff0b0412cca93ce8a64e61c939aa4
+
+Package: com.taskinoz.LSBaffle
+Name: LS Baffle
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Watch your clock decode as you unlock your phone.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBaffle-1.1.deb
+Size: 78882
+MD5sum: 3d9638495565d1e59f7a3f101aa9fb32
+
+Package: com.taskinoz.LSBaffle
+Name: LS Baffle
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Watch your clock decode as you unlock your phone.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBaffle-1.2.deb
+Size: 78906
+MD5sum: 0faba06d0a4d4ee0666c4f474ebb468b
+
+Package: com.taskinoz.LSBarebonesColourful
+Name: LS Barebones Colourful
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A revamped widget with a new, more colourful and more customisable look.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebonesColourful-1.0.deb
+Size: 357334
+MD5sum: 2a4668d302055ffafdcbd78f2e8c6b78
+
+Package: com.taskinoz.LSBarebones
+Name: LS Barebones
+Version: 1.10
+Architecture: iphoneos-arm
+Description: A port of the Barebones Android LockScreen.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-1.10.deb
+Size: 356152
+MD5sum: 9e960cae0707dfa922ef3aa1ef18aaf5
+
+Package: com.taskinoz.LSBarebones-Nano
+Name: LS Barebones Nano
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Ever thought LS Barebones - Tiny Mod was to big, now you can enjoy an even smaller Barebones widget.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-Nano-1.1.deb
+Size: 400102
+MD5sum: e0027352178a635fb45d77bc59bf636b
+
+Package: com.taskinoz.LSBarebones-TinyMod
+Name: LS Barebones - Tiny Mod
+Version: 1.7
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.LSBarebones-TinyMod-1.7.deb
+Size: 350046
+MD5sum: 5de01aa21880232f2537ffebe8121f49
+
+Package: com.taskinoz.ToDoLS
+Name: ToDo LS
+Version: 1.5
+Architecture: iphoneos-arm
+Description: A ToDo List styled lock screen theme.
+Depends: com.matchstic.infostats
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.ToDoLS-1.5.deb
+Size: 799706
+MD5sum: ab5b8734c8d54aa07cfc69ac486c2813
+
+Package: com.taskinoz.TiltLock
+Name: TiltLock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockscreen clock that reacts based on the way you tilt your phone.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.TiltLock-1.0.deb
+Size: 98814
+MD5sum: af891d55b8b5ac7c928592565eafea9b
+
+Package: com.taskinoz.StrangerLock
+Name: Stranger Lock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Lockscreen theme inspired by the show Stranger Things.
+Homepage: Taskinoz.com
+Maintainer: tristan@taskinoz.com
+Author: Tristan
+Sponsor: Taskinoz.com
+Section: LockScreen
+Filename: http://cydia.taskinoz.com/debs/com.taskinoz.StrangerLock-1.0.deb
+Size: 98814
+MD5sum: 4bc7e8591b131c637a03e0850d73aae4

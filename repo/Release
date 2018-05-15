@@ -1,0 +1,8 @@
+Origin: Taskinoz Repo Mirror
+Label: Taskinoz.com Repo Mirror
+Suite: stable
+Version: 1.0
+Codename: alpha
+Architectures: darwin-arm
+Components: main
+Description: Temporary repo until I can fix the main repo issue
