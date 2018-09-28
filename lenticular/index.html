@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <style>
+    div{
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-size: cover !important;
+      background-position: center center !important;
+      background-repeat: no-repeat !important;
+      display: inline-block;
+      transition: 0.2;
+    }
+    #left,#debug{
+      opacity: 1 !important;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var x,y,z;
+      var left= ['img/Left.png',-40,-30];
+      var middle= ['img/Middle.png',-5,5];
+      var right= ['img/Right.png',30,40];
+
+      $('#left').css('background','url('+left[0]+')');
+      $('#middle').css('background','url('+middle[0]+')');
+      $('#right').css('background','url('+right[0]+')');
+
+      window.addEventListener("deviceorientation", function(event) {
+        var x = event.beta; // -180 to 180
+        var y = event.gamma; // -90 to 90
+        var z = event.alpha; // 0 to 360
+        $('#debug').text('X: '+Math.floor(x)+' Y: '+Math.floor(y)+' Z: '+Math.floor(z));
+        if (y<left[1]) {
+          $('#middle').css('opacity','0');
+        }
+        if (y>=left[1] && y<=left[2] ){
+          $('#middle').css('opacity',((left[1]-y)/10*-1));
+        }
+        if (y>left[2]) {
+          $('#middle').css('opacity','1');
+        }
+        if (y>=right[1] && y<=right[2] ){
+          $('#right').css('opacity',(y-right[1])/10);
+        }
+        if (y>right[2]) {
+          $('#right').css('opacity','1');
+        }
+      });
+
+    });
+  </script>
+  <title>Document</title>
+</head>
+<body>
+  <div id="left"></div>
+  <div id="middle"></div>
+  <div id="right"></div>
+  <div id="debug"></div>
+</body>
+</html>
