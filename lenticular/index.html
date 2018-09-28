@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Lenticuale LockScreen</title>
   <style>
     div{
       opacity: 0;
@@ -18,7 +19,7 @@
       display: inline-block;
       transition: 0.2;
     }
-    #left,#debug{
+    #left{
       opacity: 1 !important;
     }
   </style>
@@ -38,22 +39,14 @@
         var x = event.beta; // -180 to 180
         var y = event.gamma; // -90 to 90
         var z = event.alpha; // 0 to 360
-        $('#debug').text('X: '+Math.floor(x)+' Y: '+Math.floor(y)+' Z: '+Math.floor(z));
-        if (y<left[1]) {
-          $('#middle').css('opacity','0');
-        }
-        if (y>=left[1] && y<=left[2] ){
-          $('#middle').css('opacity',((left[1]-y)/10*-1));
-        }
-        if (y>left[2]) {
-          $('#middle').css('opacity','1');
-        }
-        if (y>=right[1] && y<=right[2] ){
-          $('#right').css('opacity',(y-right[1])/10);
-        }
-        if (y>right[2]) {
-          $('#right').css('opacity','1');
-        }
+        // Debuging text
+        // $('#debug').text('X: '+Math.floor(x)+' Y: '+Math.floor(y)+' Z: '+Math.floor(z));
+        // Transition between images
+        if (y<left[1]) {$('#middle').css('opacity','0');}
+        if (y>=left[1] && y<=left[2] ){$('#middle').css('opacity',((left[1]-y)/10*-1));}
+        if (y>left[2]) {$('#middle').css('opacity','1');}
+        if (y>=right[1] && y<=right[2] ){$('#right').css('opacity',(y-right[1])/10);}
+        if (y>right[2]) {$('#right').css('opacity','1');}
       });
 
     });
