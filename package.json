@@ -1,0 +1,31 @@
+{
+  "name": "deb-builder",
+  "version": "1.0.0",
+  "description": "Build deb packages automatically",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taskinoz/taskinoz.github.io.git"
+  },
+  "keywords": [
+    "ios",
+    "themes",
+    "jailbreak",
+    "apt",
+    "debian",
+    "unix"
+  ],
+  "author": "Taskinoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taskinoz/taskinoz.github.io/issues"
+  },
+  "homepage": "https://github.com/taskinoz/taskinoz.github.io#readme",
+  "devDependencies": {
+    "gulp-deb": "^0.2.1",
+    "gulp-debian": "^0.1.9"
+  }
+}
