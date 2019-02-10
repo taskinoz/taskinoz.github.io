@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/taskinoz/taskinoz.github.io#readme",
   "devDependencies": {
-    "gulp-deb": "^0.2.1",
     "gulp-debian": "^0.1.9"
   }
 }
